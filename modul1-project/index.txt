@@ -1,0 +1,5 @@
+This is version one of my software
+
+Ejemplos de casos de uso reales.
+
+Por lo general, se asocia con sistemas de software, pero se puede usar en referencia a cualquier proceso. Por ejemplo, imagina que eres un cocinero que tiene el objetivo de preparar un sándwich de queso a la parrilla. El caso de uso describiría a través de una serie de pasos escritos cómo el cocinero prepararía ese sándwich.

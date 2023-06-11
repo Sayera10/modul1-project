@@ -1,0 +1,35 @@
+Utility version for version 1
+
+Breve descripción de arquitecturas, tecnologías y 
+herramientas utilizadas por empresas y aplicaciones de éxito
+
+
+arquitecturas
+Un modelo de arquitectura empresarial es una visualización de la arquitectura de una empresa. Mapea conceptos y sus elementos, mostrando cómo se interrelacionan y se unen dentro de la empresa.
+5 patrones de arquitectura de software
+Sistemas de Software microkernel. El patrón arquitectónico Microkernel se usa cuando se realizan sistemas con componentes intercambiables. ...
+Patrón de arquitectura microservicios. ...
+Patrón de arquitectura Event-based pattern. ...
+Patrón CQRS. ...
+Patrón de arquitectura basado en el espacio.
+
+tecnologías
+Las tecnologías inteligentes que más usan las empresas
+Internet de las Cosas (IoT): 92% (de las empresas encuestadas)
+Inteligencia Artificial (IA): 78%
+Machine Learning: 77%
+Realidad Aumentada/Virtual: 70%
+Blockchain: 68%
+
+La tecnología aplicada se refiere a las diferentes maneras en las que se utiliza la tecnología de forma práctica y en entornos reales. Esto con el objetivo de optimizar los procesos, bien sea de una organización, de una industria o en las actividades del día a día.
+
+herramientas
+Gestor de tareas y equipos.
+CRM para gestión de clientes y proveedores.
+Gestión de Recursos Humanos.
+Comunicación entre trabajadores.
+Almacenamiento de información.
+Gestor de Notas.
+Programa de facturación y administración de la empresa.
+Se entiende que las herramientas de gestión empresarial son todos los sistemas, aplicaciones, controles, soluciones de cálculo, metodología, etc., que ayudan a la gestión de una empresa en los siguientes aspectos generales: Herramientas para el registro de datos en cualquier departamento empresarial.
+
